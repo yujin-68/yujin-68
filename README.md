@@ -4,8 +4,8 @@
 
 ## 최근 프로젝트
 
-- 🎵 [vinyl.pomodoro](https://vinyl-pomodoro.vercel.app/) — LP 감성의 집중 타이머
-- 📖 [saddle-stitch-web-service](https://yujin-68.github.io/saddle-stitch-web-service/) — 중철 제본 웹 서비스
+- 🎵 <a href="https://vinyl-pomodoro.vercel.app/" target="_blank">vinyl.pomodoro</a> — LP 감성의 집중 타이머
+- 📖 <a href="https://yujin-68.github.io/saddle-stitch-web-service/" target="_blank">saddle-stitch-web-service</a> — 중철 제본 웹 서비스
 
 ## 기술 스택
 
@@ -15,7 +15,7 @@
 
 ## 링크
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yujintak/posts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://velog.io/@yujintak/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
