@@ -5,7 +5,7 @@
 ## 최근 프로젝트
 
 - 🎵 [vinyl.pomodoro](https://vinyl-pomodoro.vercel.app/) — LP 감성의 집중 타이머
-- 📖 [saddle-stitch-web-service](https://github.com/yujin-68/saddle-stitch-web-service) — 중철 제본 웹 서비스
+- 📖 [saddle-stitch-web-service](https://yujin-68.github.io/saddle-stitch-web-service/) — 중철 제본 웹 서비스
 
 ## 기술 스택
 
