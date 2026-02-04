@@ -4,6 +4,7 @@
 
 ## 🔧 최근 프로젝트
 
+- 🧚 <a href="https://jajang-jajang.vercel.app/"target="_blank">jajang-jajang</a> — 아이와 함께 직접 만드는 동화책
 - 🎵 <a href="https://vinyl-pomodoro.vercel.app/" target="_blank">vinyl.pomodoro</a> — LP 감성의 집중 타이머
 - 📖 <a href="https://yujin-68.github.io/saddle-stitch-web-service/" target="_blank">saddle-stitch-web-service</a> — 중철 제본 웹 서비스
 
